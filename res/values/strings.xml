@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PropertiesAndActionBarExample</string>
+    <string name="pref_my_special_setting">My Special Setting</string>
+</resources>
